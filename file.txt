@@ -1,1 +1,2 @@
 hi hello to AIML 
+i have taken git and git commands
